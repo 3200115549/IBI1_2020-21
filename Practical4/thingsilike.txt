@@ -1,0 +1,19 @@
+I like books.
+I like GanYu very much.
+I like cats.
+I like games.
+I like Iron man.
+I like Spider man.
+<<<<<<< HEAD
+I like dogs.
+I like justice.
+I like hamburge.
+I like 11.
+=======
+I don't like dogs.
+I like 6.
+I like 7.
+I like 8.
+I like 9.
+I like 10.
+>>>>>>> LJZ
